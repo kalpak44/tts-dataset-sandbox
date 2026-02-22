@@ -3,7 +3,7 @@
 This repository contains an experimental text-to-speech (TTS) dataset for the Bulgarian language, intended for use with [Piper](https://github.com/rhasspy/piper).
 
 ## Project Overview
-This dataset is designed to provide high-quality speech samples for training Bulgarian TTS models. It follows the standard Piper dataset format.
+This dataset is designed to provide speech samples for training Bulgarian TTS models.
 
 ## Dataset Structure
 - `wav/`: Contains the audio files in WAV format (22,050 Hz, 16-bit, mono).
