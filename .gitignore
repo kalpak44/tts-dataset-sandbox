@@ -4,5 +4,6 @@
 *.iml
 *.ipr
 out/
+mp3/
 gen/
 scripts/
